@@ -21,7 +21,7 @@ import (
 	"github.com/xo/xo/models"
 
 	_ "github.com/xo/xo/loaders"
-	_ "github.com/xo/xoutil"
+	_ "github.com/AstroProfundis/xoutil"
 )
 
 func main() {

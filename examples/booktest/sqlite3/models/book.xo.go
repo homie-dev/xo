@@ -6,7 +6,7 @@ package models
 import (
 	"errors"
 
-	"github.com/xo/xoutil"
+	"github.com/AstroProfundis/xoutil"
 )
 
 // Book represents a row from 'books'.
