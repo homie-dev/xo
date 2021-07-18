@@ -1,7 +1,7 @@
 module github.com/wakusei-meron-/xo
 
 require (
-	github.com/AstroProfundis/xoutil v0.0.0-20210513105001-1eafd6262bde // indirect
+	github.com/wakusei-meron-/xoutil v0.0.0-20210513105001-1eafd6262bde // indirect
 	github.com/alexflint/go-arg v1.3.0
 	github.com/denisenkom/go-mssqldb v0.10.0
 	github.com/gedex/inflector v0.0.0-20170307190818-16278e9db813

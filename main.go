@@ -21,7 +21,7 @@ import (
 	"github.com/wakusei-meron-/xo/models"
 
 	_ "github.com/wakusei-meron-/xo/loaders"
-	_ "github.com/AstroProfundis/xoutil"
+	_ "github.com/wakusei-meron-/xoutil"
 )
 
 func main() {
