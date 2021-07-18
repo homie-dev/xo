@@ -1,4 +1,4 @@
-module github.com/xo/xo
+module github.com/wakusei-meron-/xo
 
 require (
 	github.com/AstroProfundis/xoutil v0.0.0-20210513105001-1eafd6262bde // indirect
