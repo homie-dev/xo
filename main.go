@@ -17,10 +17,10 @@ import (
 	"github.com/alexflint/go-arg"
 
 	"github.com/xo/dburl"
-	"github.com/xo/xo/internal"
-	"github.com/xo/xo/models"
+	"github.com/wakusei-meron-/xo/internal"
+	"github.com/wakusei-meron-/xo/models"
 
-	_ "github.com/xo/xo/loaders"
+	_ "github.com/wakusei-meron-/xo/loaders"
 	_ "github.com/AstroProfundis/xoutil"
 )
 
