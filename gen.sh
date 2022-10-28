@@ -202,8 +202,8 @@ ENDSQL
 $XOBIN $MYDB -N -M -B -T MyAutoIncrement -F MyAutoIncrements -o $DEST $EXTRA << ENDSQL
 SELECT
   table_name
-FROM information_schema.tables
-WHERE auto_increment IS NOT null AND table_schema = %%schema string%%
+FROM information_schema.columns
+WHERE extra = 'auto_increment' AND table_schema = %%schema string%%
 ENDSQL
 
 # mysql proc list query
