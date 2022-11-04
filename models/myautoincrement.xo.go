@@ -15,8 +15,8 @@ func MyAutoIncrements(db XODB, schema string) ([]*MyAutoIncrement, error) {
 	// sql query
 	const sqlstr = `SELECT ` +
 		`table_name ` +
-		`FROM information_schema.tables ` +
-		`WHERE auto_increment IS NOT null AND table_schema = ?`
+		`FROM information_schema.columns ` +
+		`WHERE extra = 'auto_increment' AND table_schema = ?`
 
 	// run query
 	XOLog(sqlstr, schema)
