@@ -1,6 +1,6 @@
-module github.com/wakusei-meron-/xo
+module github.com/homie-dev/xo
 
-go 1.18
+go 1.23
 
 require (
 	github.com/alexflint/go-arg v1.4.3
