@@ -7,11 +7,11 @@ require (
 	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/gedex/inflector v0.0.0-20170307190818-16278e9db813
 	github.com/go-sql-driver/mysql v1.6.0
+	github.com/homie-dev/xoutil v0.0.0-20210513105001-1eafd6262bde
 	github.com/kenshaw/snaker v0.2.0
 	github.com/lib/pq v1.10.7
 	github.com/mattn/go-sqlite3 v1.14.16
 	github.com/sijms/go-ora v1.3.2
-	github.com/homie-dev/xoutil v0.0.0-20210513105001-1eafd6262bde
 	github.com/xo/dburl v0.12.4
 )
 
