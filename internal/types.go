@@ -1,6 +1,6 @@
 package internal
 
-import "github.com/wakusei-meron-/xo/models"
+import "github.com/homie-dev/xo/models"
 
 // TemplateType represents a template type.
 type TemplateType uint

@@ -17,11 +17,11 @@ import (
 	"github.com/alexflint/go-arg"
 
 	"github.com/xo/dburl"
-	"github.com/wakusei-meron-/xo/internal"
-	"github.com/wakusei-meron-/xo/models"
+	"github.com/homie-dev/xo/internal"
+	"github.com/homie-dev/xo/models"
 
-	_ "github.com/wakusei-meron-/xo/loaders"
-	_ "github.com/wakusei-meron-/xoutil"
+	_ "github.com/homie-dev/xo/loaders"
+	_ "github.com/homie-dev/xoutil"
 )
 
 func main() {

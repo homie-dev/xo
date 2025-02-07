@@ -8,8 +8,8 @@ import (
 
 	_ "github.com/sijms/go-ora"
 
-	"github.com/wakusei-meron-/xo/internal"
-	"github.com/wakusei-meron-/xo/models"
+	"github.com/homie-dev/xo/internal"
+	"github.com/homie-dev/xo/models"
 )
 
 func init() {

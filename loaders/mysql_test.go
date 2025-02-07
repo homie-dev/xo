@@ -3,8 +3,8 @@ package loaders_test
 import (
 	"testing"
 
-	"github.com/wakusei-meron-/xo/internal"
-	"github.com/wakusei-meron-/xo/loaders"
+	"github.com/homie-dev/xo/internal"
+	"github.com/homie-dev/xo/loaders"
 )
 
 func Test_MyParseType(t *testing.T) {

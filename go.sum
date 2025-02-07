@@ -35,8 +35,8 @@ github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
-github.com/wakusei-meron-/xoutil v0.0.0-20210513105001-1eafd6262bde h1:gH55pkBw8vtLtvTavpen1y+7PueZu332G4HxPvxrS28=
-github.com/wakusei-meron-/xoutil v0.0.0-20210513105001-1eafd6262bde/go.mod h1:SuNZ/rKDi8VeT1rr5tdsCAjCFTeQR1I8LfANRJDwvPw=
+github.com/homie-dev/xoutil v0.0.0-20210513105001-1eafd6262bde h1:gH55pkBw8vtLtvTavpen1y+7PueZu332G4HxPvxrS28=
+github.com/homie-dev/xoutil v0.0.0-20210513105001-1eafd6262bde/go.mod h1:SuNZ/rKDi8VeT1rr5tdsCAjCFTeQR1I8LfANRJDwvPw=
 github.com/xo/dburl v0.12.4 h1:mAIQjCNqCRtfytZNN0tZzK01rfng3n4Ei1s+H9lh61I=
 github.com/xo/dburl v0.12.4/go.mod h1:K6rSPgbVqP3ZFT0RHkdg/M3M5KhLeV2MaS/ZqaLd1kA=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
